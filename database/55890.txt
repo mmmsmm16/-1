@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+        <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WCFP4V2');</script>
+    <!-- End Google Tag Manager -->
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ジンジャー＆ピクルスのはなし｜パブー｜電子書籍作成・販売プラットフォーム</title>
+    <meta name="description"
+          content="ベアトリクス・ポッター（1866-1943）の描いた動物絵本シリーズの１６作目。
+
+訳者の個人的な話で申し訳ないですが実はもうすぐ新刊が出ます。→ http://amzn.to/UXUrf3">
+    <meta property="og:url" content=""/>
+    <meta property="og:title" content="ジンジャー＆ピクルスのはなし｜パブー｜電子書籍作成・販売プラットフォーム"/>
+    <meta property="og:description"
+          content="ベアトリクス・ポッター（1866-1943）の描いた動物絵本シリーズの１６作目。
+
+訳者の個人的な話で申し訳ないですが実はもうすぐ新刊が出ます。→ http://amzn.to/UXUrf3"/>
+    <meta property="og:image" content="https://img.puboo.jp/0A15BE3C-476A-11E2-8F34-6D23CD288735_l.jpg"/>
+    <meta property="og:site_name" content="パブー"/>
+    <meta property="og:locale" content="ja_JP"/>
+    <meta name="description"
+          content="ベアトリクス・ポッター（1866-1943）の描いた動物絵本シリーズの１６作目。
+
+訳者の個人的な話で申し訳ないですが実はもうすぐ新刊が出ます。→ http://amzn.to/UXUrf3"/>
+    <meta name="keywords" content=""/>
+
+    <!-- Facebook -->
+    <meta property="fb:app_id" content="527548794492205"/>
+
+    <!-- 大きな画像付きのSummaryカード -->
+    <meta name="twitter:card" content="summary_large_image">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="18POndJrDRjeAs4TU7QrSAs8vycOJKTQb02VN7HD">
+        <meta property="og:type" content="artcle"/>
+
+    <title>Puboo</title>
+
+    <!-- Favicon -->
+    <link href="/img/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+    <link href="/font-awesome/css/all.min.css" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/app.css">
+    
+    
+    <link rel="stylesheet" href="/css/Overlay.css"/>
+
+        <style>
+        .share i {
+            font-size: 24px;
+        }
+
+        .like-button {
+            cursor: pointer;
+        }
+        #book-img{
+            max-width:248px;
+            max-height:395px;
+        }
+    </style>
+    
+    <style>
+        .sticky-top {
+            z-index: 8;
+        }
+
+        .like {
+            color: #ea3f50;
+        }
+
+        .pagination {
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* 基本的には推奨環境についての項目は非表示 */
+        .environment {
+            display: none;
+        }
+
+        /* IEの時は表示させる */
+        @media (-ms-high-contrast: none), (-ms-high-contrast: active) {
+            .environment {
+                display: block;
+            }
+        }
+        /* edgeの時も表示させる */
+        @supports (-ms-ime-align: auto) {
+            .environment {
+                display: block;
+            }
+        }
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/js/bootstrap.bundle.min.js" integrity="sha512-igl8WEUuas9k5dtnhKqyyld6TzzRjvMqLC79jkgT3z02FvJyHAuUtyemm/P/jYSne1xwFI06ezQxEwweaiV7VA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsrender/1.0.13/jsrender.min.js" integrity="sha512-T93uOawQ+FrEdyCPaWrQtppurbLm8SISu2QnHyddM0fGXKX9Amyirwibe1wGYbsW2F8lLzhOM/2+d3Zo94ljRQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCFP4V2"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v5.0"></script>
+
+<div id="app">
+    <header class="header">
+        <nav class="navbar navbar-expand-lg bg-white">
+            <div class="container gnav">
+                
+                                    <h1><a href="/"><img src="/img/logo.svg" alt="Puboo" class="logo"></a></h1>
+                
+                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-content"
+                        aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+                    メニュー <i class="far fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbar-content">
+                                            <ul class="navbar-nav ml-auto mr-md-1">
+                            <li class="nav-item">
+                                <a class="nav-link" href="/about/service"><i class="fas fa-info-circle"></i> <span
+                                        class="text-dark">はじめての方へ</span></a>
+                                <div class="list-group d-lg-none">
+
+                                    
+                                    <div class="list-group">
+                                        <a href="/about/service" class="list-group-item list-group-item-action"><i
+                                                class="fas fa-pencil-alt"></i>　パブーについて</a>
+                                        <a href="/about/premium" class="list-group-item list-group-item-action"><i
+                                                class="fas fa-medal"></i>　パブーのプロ版</a>
+                                        
+                                        
+                                        
+                                        
+                                        <a href="https://puboo.jp/about/faq"
+                                           class="list-group-item list-group-item-action"><i
+                                                class="fas fa-question-circle"></i>　よくある質問</a>
+                                        <a href="/about/contact" class="list-group-item list-group-item-action"><i
+                                                class="fas fa-envelope"></i>　お問い合わせ</a>
+                                        <a href="/about/cookie" class="list-group-item list-group-item-action"><i
+                                                class="fas fa-cookie"></i>　Cookieの使用について</a>
+                                        <a href="/info/category/manual/" class="list-group-item list-group-item-action"><i
+                                                class="fas fa-book-reader"></i>　マニュアル</a>
+                                        <a href="/info/category/notice/" class="list-group-item list-group-item-action"><i
+                                                class="fas fa-comment-alt-lines"></i>　おしらせ</a>
+                                    </div>
+                                </div>
+                            </li>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://puboo.jp/about/faq"><i class="fas fa-question"></i>
+                                    <span
+                                        class="text-dark">困ったときは?</span></a>
+                            </li>
+                        </ul>
+                        <ul class="navbar-nav">
+                            <li class="nav-item nav-item-btn">
+                                <a class="btn btn-primary" href="/login">ログイン</a>
+                                <a class="btn btn-secondary" href="/register">新規登録</a>
+                            </li>
+                        </ul>
+                                    </div>
+            </div>
+        </nav>
+    </header>
+    <div class="overlay">
+        <div class="card" id="overlay-message" style="margin: 35% 10% 0 10%"></div>
+    </div>
+    <div class="container mb-md-4">
+            </div>
+    
+    <div class="container">
+
+        
+        
+        
+        <div class="row">
+            <div class="col-xs-12 col-md-5">
+                <div class="d-md-none">
+                    <h1>ジンジャー＆ピクルスのはなし</h1>
+                    <div><br>
+                        <div class="mb-3 like">
+                            
+                        </div>
+                        <div class="text-right mb-3">
+                            著: <a
+                                href="https://puboo.jp/users/alz">Alz</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center mb-3">
+                    <img src="https://img.puboo.jp/0A15BE3C-476A-11E2-8F34-6D23CD288735_l.jpg" id="book-img">
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-7">
+                <div class="d-none d-md-block">
+                    <h1 class="p-book-intro__title">ジンジャー＆ピクルスのはなし</h1>
+                    
+                    <div class="text-right mb-3">
+                                                    著:<a href="https://puboo.jp/users/alz">Alz</a>
+                                            </div>
+                </div>
+
+                                    <div class="text-center mb-4">
+                        
+                        
+                        
+                                                    <a class="btn btn-success" href="https://puboo.jp/book/read/61967/222560"
+                               target="_blank">この本を読む</a>
+                        
+                        
+                                            </div>
+                                
+                <div>
+                    <table class="table">
+                        <tr>
+                            <th>状態</th>
+                            <td>完成</td>
+                        </tr>
+                        
+                                                    <tr>
+                                <th>最終更新日</th>
+                                <td>
+                                    2012年12月18日
+                                                                        
+                                </td>
+                            </tr>
+                                                
+                        
+                        
+                        
+                        
+
+                                                    <tr>
+                                <th>ページ数</th>
+                                <td>                                    PDF：33ページ
+                                </td>
+                            </tr>
+                        
+                        
+                        
+                        
+                                                    <tr>
+                                <th>ダウンロード</th>
+                                <td>
+                                    
+
+                                                                            <a href="https://puboo.jp/book/download/61967.pdf"
+                                           class="btn btn-sm btn-primary">PDF形式でダウンロード</a>
+                                                                                                                <a href="https://puboo.jp/book/download/61967.epub"
+                                           class="btn btn-sm btn-primary">EPUB形式でダウンロード</a>
+                                                                    </td>
+                            </tr>
+
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                                
+
+                        
+
+
+
+
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="container">
+        <div class="col-lg-8 offset-lg-2">
+
+                        <div class="mb-4">
+                <div class="card">
+                    <div class="card-header">
+                        <strong>内容紹介</strong>
+                    </div>
+                    <div class="card-body">
+                        <p>
+                            ベアトリクス・ポッター（1866-1943）の描いた動物絵本シリーズの１６作目。<br />
+<br />
+訳者の個人的な話で申し訳ないですが実はもうすぐ新刊が出ます。→ http://amzn.to/UXUrf3
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            
+                        <div class="mb-4">
+                <div class="card">
+                    <div class="card-header">
+                        <strong>目次</strong>
+                    </div>
+                    <div class="card-body">
+                        <table class="table table-sm">
+                            <tbody>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <tr><td>奥付</td></tr>
+                                                                                                                                                                                                                <tr><td class="pl-5">奥付</td></tr>
+                                                                                                                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+
+    <nav class="navbar navbar-expand fixed-bottom navbar-light bg-light footer-navbar d-none">
+        <div class="container">
+            <div class="col-md-8 offset-md-2 py-3 collapse navbar-collapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item ml-5">
+                        
+                        
+                    </li>
+                </ul>
+                <ul class="navbar-nav">
+                    <li class="nav-item mr-5">
+                        <span class="text-muted"><a href="https://www.facebook.com/share.php?u=https://puboo.jp/book/61967"
+                                                    target="_blank" class="share"><i class="fab fa-facebook-square"></i></a></span>
+                    </li>
+                    <li class="nav-item mr-5">
+                        <a href="https://twitter.com/share?url=https://puboo.jp/book/61967&text=ジンジャー＆ピクルスのはなし｜Alz&hashtags=パブー"
+                           target="_blank" class="share"><i class="fab fa-twitter"></i></a>
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+
+    </nav>
+
+            <!-- Modal -->
+        <div class="modal fade" id="login-panel" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel"><strong>電子書籍の購入にはログインが必要です</strong></h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        パブーを以前ご利用になられた方はログインを、<br>初めての方は新規登録をお願いします。
+                    </div>
+                    <div class="modal-footer">
+                        <a href="/login" class="btn btn-primary">ログインする</a>
+                        <a href="/register" class="btn btn-secondary">新規登録する</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    <footer class="mt-auto pt-5">
+        <div class="container mb-md-5">
+            <div class="row">
+                <div class="col-md-3 col-6">
+                    <div class="mb-3"><strong>Welcome!!</strong></div>
+                    <ul class="footer-nav mb-3 list-unstyled">
+                        <li><a href="/">トップページ</a></li>
+                        <li><a href="https://puboo.jp/info/category/notice/">パブーからのおしらせ</a></li>
+                        <li><a href="https://puboo.jp/info/category/manual/">パブーご利用マニュアル</a></li>
+                        <hr>
+                        <li><a href="https://designegg.co.jp/about/" target="_blank">会社概要</a></li>
+                        <li><a href="https://designegg.co.jp/privacy/" target="_blank">プライバシーポリシー</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 col-6">
+                    <div class="mb-3"><strong>Mypage</strong></div>
+                    <ul class="footer-nav mb-3 list-unstyled">
+                        <li><a href="https://puboo.jp/accounts">作成した本</a></li>
+                        <li><a href="https://puboo.jp/accounts/sales">入出金管理</a></li>
+                        <li><a href="https://puboo.jp/accounts/bought">購入した本</a></li>
+                        
+                        
+                        
+                        <li><a href="https://puboo.jp/accounts/profile">プロフィール</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 col-6">
+                    <div class="mb-3"><strong>Write & Read</strong></div>
+                    <ul class="footer-nav mb-3 list-unstyled">
+                        <li><a href="https://puboo.jp/books/create">本をつくる</a></li>
+                        <li><a href="/info/2020/01/16/read/" target="_blank">本をよむ</a></li>
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+                <div class="col-md-3 col-6">
+                    <div class="mb-3"><strong>About</strong></div>
+                    <ul class="footer-nav mb-3 list-unstyled">
+                        <li><a href="https://puboo.jp/about/service">パブーについて</a></li>
+                        <li><a href="https://puboo.jp/about/premium">プレミアムプラン</a></li>
+                        <li><a href="https://puboo.jp/about/faq">よくある質問</a></li>
+                        <li><a href="https://puboo.jp/about/contact">お問い合わせ</a></li>
+                        <li><a href="/about/terms">ご利用規約</a></li>
+                        <li><a href="https://puboo.jp/about/cookie">Cookieの使用について</a></li>
+                        <li><a href="https://puboo.jp/info/category/media/" target="_blank">メディア掲載情報</a></li>
+                        <li><a href="https://puboo.jp/info/2020/02/11/commercial/" target="_blank">特定商取引法に基づく表記</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="text-center bg-white py-3"><small>パブー Copyright © 2020 <a href="https://designegg.co.jp/"
+                                                                              target="_blank">DesignEgg,Inc.</a> All Rights Reserved.</small>
+        </div>
+    </footer>
+</div>
+
+<script src="/js/displayOverlay.js" type="application/javascript"></script>
+
+<script type="text/html" id="overlay-message-template">
+    <div class="card-header">{{>Subject}}</div>
+    <div class="card-body">
+        <p>{{>Message}}</p>
+    </div>
+</script>
+    <script>
+        let like = 0;
+        let shareButton;
+        let $likebutton;
+        const likeColor = '#EA3F50';
+
+        (function() {
+            $likebutton = $('.like-button');
+
+            //マウスオーバーしたらハートの色が変わる
+            $likebutton.hover(function() {
+                $(this).css('color', likeColor);
+            }, function() {
+                if (like === 0) {
+                    $(this).css('color', '');
+                }
+            });
+
+            $likebutton.on('click', function() {
+                
+                $(this).css('color', likeColor);
+                $('.fa-heart').removeClass('far').addClass('fas');
+                like = 1;
+            });
+
+            shareButton = document.getElementsByClassName('share');
+            for (let i = 0; i < shareButton.length; i++) {
+                shareButton[i].addEventListener('click', function(e) {
+                    e.preventDefault();
+                    window.open(this.href, 'SNS_window',
+                        'width=600, height=500, menubar=no, toolbar=no, scrollbars=yes');
+                }, false);
+            }
+        })();
+
+        let startPos = 0, winScrollTop = 0;
+        $(window).on('scroll', function() {
+            winScrollTop = $(this).scrollTop();
+            if (winScrollTop >= startPos) {
+                $('.footer-navbar').addClass('d-none');
+            } else {
+                $('.footer-navbar').removeClass('d-none');
+            }
+            startPos = winScrollTop;
+        });
+    </script>
+</body>
+</html>
